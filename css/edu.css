@@ -1,0 +1,14 @@
+.year-title{
+    color: rgb(133, 131, 219);
+}
+.edu-title{
+    color: rgb(16, 15, 56);
+    font-family: 'Rubik', sans-serif;
+}
+.edu-desc{
+    color: rgb(131, 130, 146);
+}
+.row-2-container span{
+    font-size:4rem ;
+    color: black;
+}

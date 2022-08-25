@@ -1,0 +1,18 @@
+.forms input,.forms textarea{
+    border: none;
+    border-radius: 0%;
+    border-bottom: 2px solid rgb(131, 130, 146) !important;
+    background-color: rgb(245, 240, 240);
+    font-style: italic;
+    font-size: 0.9rem;
+}
+.forms button{
+    background-color: rgb(133, 131, 219);
+    padding: 0.8rem 1.8rem;
+}
+.forms button:hover{
+    background-color: rgb(16, 15, 56);
+}
+.con-para{
+    color: rgb(123, 121, 138);
+}
